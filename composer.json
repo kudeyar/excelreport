@@ -1,5 +1,5 @@
 {
-    "name": "custom-it/yii2-excel-report",
+    "name": "kudeyar/yii2-excel-report",
     "description": "An extension for generate excel file from GridView content",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","excel","report","excelreport"],
